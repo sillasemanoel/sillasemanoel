@@ -5,7 +5,7 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm based in Ereré, Ceará, Brazil
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://github.com/sillasemanoel/portfolio'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://sillasemanoel.github.io/portfolio/'>Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
