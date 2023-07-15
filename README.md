@@ -19,6 +19,8 @@ I am Front End developer.
 &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=108784&format=png" width="36" height="36" alt="JavaScript" /></a>
 &nbsp;
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=HKNzD81eiiSc&format=png" width="34" height="34" alt="JQuery" /></a>
+&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=asWSSTBrDlTW&format=png" width="34" height="34" alt="React" /></a>
 &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" width="36" height="36" alt="TypeScript" /></a>
