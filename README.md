@@ -25,11 +25,15 @@ I am Front-End React Developer.
 &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" width="36" height="36" alt="TypeScript" /></a>
 &nbsp;
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" width="36" height="36" alt="NodeJS" /></a>
+&nbsp;
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=ttxR7mXaDvqS&format=png" width="36" height="36" alt="Styled Components" /></a>
 &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=4PiNHtUJVbLs&format=png" width="36" height="36" alt="Tailwind CSS" /></a>
 &nbsp;
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=vEiU8UeAmv0x&format=png" width="36" height="36" alt="SCSS" /></a>
+&nbsp;
+<a href="[https://nodejs.org/en" target="_blank](https://dev.mysql.com/doc/)" rel="noreferrer"><img src="https://img.icons8.com/?size=80&id=rgPSE6nAB766&format=png" width="36" height="36" alt="MySQL" /></a>
 &nbsp;
 
 
