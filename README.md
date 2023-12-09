@@ -33,7 +33,7 @@ I am Front-End React Developer.
 &nbsp;
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=vEiU8UeAmv0x&format=png" width="36" height="36" alt="SCSS" /></a>
 &nbsp;
-<a href="[https://nodejs.org/en" target="_blank](https://dev.mysql.com/doc/)" rel="noreferrer"><img src="https://img.icons8.com/?size=80&id=rgPSE6nAB766&format=png" width="36" height="36" alt="MySQL" /></a>
+<a href="https://dev.mysql.com/doc/" rel="noreferrer"><img src="https://img.icons8.com/?size=80&id=rgPSE6nAB766&format=png" width="36" height="36" alt="MySQL" /></a>
 &nbsp;
 
 
