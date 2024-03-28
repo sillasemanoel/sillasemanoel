@@ -1,7 +1,7 @@
 Hey stalker | My name is Sillas Emanoel  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================================
 
-I am Full-Stack JavaScript Developer.
+I am Front-End JavaScript Developer.
 --------------------------
 
 *   🌍  I'm based in Ereré, Ceará, Brazil
@@ -19,9 +19,9 @@ I am Full-Stack JavaScript Developer.
 &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=108784&format=png" width="36" height="36" alt="JavaScript" /></a>
 &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" width="36" height="36" alt="TypeScript" /></a>
-&nbsp;
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=HKNzD81eiiSc&format=png" width="34" height="34" alt="JQuery" /></a>
+&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" width="36" height="36" alt="TypeScript" /></a>
 &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=asWSSTBrDlTW&format=png" width="34" height="34" alt="React" /></a>
 &nbsp;
