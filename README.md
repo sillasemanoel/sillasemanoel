@@ -1,7 +1,7 @@
 Hey stalker | My name is Sillas Emanoel  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================================
 
-I am Front-End JavaScript Developer.
+I am Senior Software Engineer | Front-end, Next.js, TypeScript ~ 24y
 --------------------------
 
 *   🌍  I'm based in Ereré, Ceará, Brazil
@@ -13,19 +13,19 @@ I am Front-End JavaScript Developer.
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=20909&format=png" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=20909&format=png" width="36" height="36" alt="HTML5" /></a>
 &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=21278&format=png" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=21278&format=png" width="36" height="36" alt="CSS3" /></a>
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=108784&format=png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=108784&format=png" width="36" height="36" alt="JavaScript" /></a>
 &nbsp;
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=HKNzD81eiiSc&format=png" width="34" height="34" alt="JQuery" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=uJM6fQYqDaZK&format=png" width="36" height="36" alt="TypeScript" /></a>
 &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=96&id=asWSSTBrDlTW&format=png" width="34" height="34" alt="React" /></a>
 &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=asWSSTBrDlTW&format=png" width="34" height="34" alt="React" /></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=hsPbhkOH4FMe&format=png" width="36" height="36" alt="NodeJS" /></a>
 &nbsp;
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://nextjs.org" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=yUdJlcKanVbh&format=png" width="36" height="36" alt="Next.js" /></a>
 &nbsp;
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=ttxR7mXaDvqS&format=png" width="36" height="36" alt="Styled Components" /></a>
 &nbsp;
@@ -40,5 +40,7 @@ I am Front-End JavaScript Developer.
 ### Socials
 
 <p align="left"> 
-<a href="https://www.linkedin.com/in/sillas-emanoel-656478218/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/sillas-emanoel-656478218/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=13930&format=png" width="32" height="32" /></a>
+&nbsp;
+<a href="https://www.instagram.com/silsdev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=Xy10Jcu1L2Su&format=png" width="32" height="32" /></a>
 </p>
