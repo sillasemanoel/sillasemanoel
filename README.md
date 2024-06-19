@@ -7,7 +7,8 @@ I am Software Engineer | Full Stack, Next.js, TypeScript ~ 24y
 *   🌍  I'm based in Ereré, Ceará, Brazil
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://portfolio-ashy-six-85.vercel.app/'>Portfolio</a>
 *   🎓  Computer technician and Information Technology student
-*   🧠  Currently learning micro saas development, what am I doing at the moment: <a target="_blank" rel="noreferrer" href='https://github.com/sillasemanoel/sil-saas'>Project</a>
+*   🧠  Currently studying <a target="_blank" rel="noreferrer" href='https://github.com/sillasemanoel/sil-saas'>NestJS</a>
+*   ✏️  Currently learning micro saas development, what am I doing at the moment: <a target="_blank" rel="noreferrer" href='https://github.com/sillasemanoel/sil-saas'>Project</a>
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
