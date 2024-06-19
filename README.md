@@ -1,4 +1,4 @@
-Hey stalker | My name is Sillas Emanoel  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hey stalker  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================================
 
 I am Software Engineer | Full Stack, Next.js, TypeScript ~ 24y
@@ -6,34 +6,38 @@ I am Software Engineer | Full Stack, Next.js, TypeScript ~ 24y
 
 *   🌍  I'm based in Ereré, Ceará, Brazil
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://portfolio-ashy-six-85.vercel.app/'>Portfolio</a>
-*   🎓  Information Technology Student
-*   🧠  Currently learning Next.js
+*   🎓  Computer technician and Information Technology student
+*   🧠  Currently learning micro saas development
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=20909&format=png" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452228/html-5.svg" width="36" height="36" alt="HTML5" /></a>
 &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=21278&format=png" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452185/css-3.svg" width="36" height="36" alt="CSS3" /></a>
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=108784&format=png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349419/javascript.svg" width="36" height="36" alt="JavaScript" /></a>
 &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=uJM6fQYqDaZK&format=png" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349540/typescript.svg" width="36" height="36" alt="TypeScript" /></a>
 &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=96&id=asWSSTBrDlTW&format=png" width="34" height="34" alt="React" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452092/react.svg" width="34" height="34" alt="React" /></a>
 &nbsp;
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=hsPbhkOH4FMe&format=png" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452075/node-js.svg" width="36" height="36" alt="Node.js" /></a>
 &nbsp;
-<a href="https://nextjs.org" rel="noreferrer"><img src="https://img.icons8.com/?size=144&id=yUdJlcKanVbh&format=png" width="36" height="36" alt="Next.js" /></a>
+<a href="https://vitejs.dev" rel="noreferrer"><img src="https://www.svgrepo.com/show/374167/vite.svg" width="36" height="36" alt="Vite" /></a>
 &nbsp;
-<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=ttxR7mXaDvqS&format=png" width="36" height="36" alt="Styled Components" /></a>
+<a href="https://nextjs.org" rel="noreferrer"><img src="https://www.svgrepo.com/show/342062/next-js.svg" width="36" height="36" alt="Next.js" /></a>
 &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=4PiNHtUJVbLs&format=png" width="36" height="36" alt="Tailwind CSS" /></a>
+<a href="https://ui.shadcn.com/" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="36" height="36" alt="shadcn/ui" /></a>
 &nbsp;
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=vEiU8UeAmv0x&format=png" width="36" height="36" alt="SCSS" /></a>
+<a href="https://www.prisma.io" rel="noreferrer"><img src="https://www.svgrepo.com/show/354210/prisma.svg" width="36" height="36" alt="Prisma" /></a>
 &nbsp;
-<a href="https://dev.mysql.com/doc/" rel="noreferrer"><img src="https://img.icons8.com/?size=80&id=rgPSE6nAB766&format=png" width="36" height="36" alt="MySQL" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="36" height="36" alt="Tailwind CSS" /></a>
+&nbsp;
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=ttxR7mXaDvqS&format=png" width="36" height="36" alt="styled-components" /></a>
+&nbsp;
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374067/scss2.svg" width="36" height="36" alt="SCSS/SASS" /></a>
 &nbsp;
 
 
