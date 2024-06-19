@@ -29,15 +29,17 @@ I am Software Engineer | Full Stack, Next.js, TypeScript ~ 24y
 &nbsp;
 <a href="https://nextjs.org" rel="noreferrer"><img src="https://www.svgrepo.com/show/342062/next-js.svg" width="36" height="36" alt="Next.js" /></a>
 &nbsp;
-<a href="https://ui.shadcn.com/" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="36" height="36" alt="shadcn/ui" /></a>
-&nbsp;
 <a href="https://www.prisma.io" rel="noreferrer"><img src="https://www.svgrepo.com/show/354210/prisma.svg" width="36" height="36" alt="Prisma" /></a>
+&nbsp;
+<a href="https://ui.shadcn.com/" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="36" height="36" alt="shadcn/ui" /></a>
 &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="36" height="36" alt="Tailwind CSS" /></a>
 &nbsp;
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=ttxR7mXaDvqS&format=png" width="36" height="36" alt="styled-components" /></a>
 &nbsp;
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374067/scss2.svg" width="36" height="36" alt="SCSS/SASS" /></a>
+&nbsp;
+<a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373701/jest-snapshot.svg" width="36" height="36" alt="Jest" /></a>
 &nbsp;
 
 
